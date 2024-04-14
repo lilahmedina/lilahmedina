@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Delilah Medina</h1>
 <h3 align="center">Associate Test Engineer by profession, and an aspiring programmer by passion.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lilahmedina&label=Profile%20views&color=0e75b6&style=flat" alt="lilahmedina" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://lilahmedina.github.io/delilah.github.io/](https://lilahmedina.github.io/delilah.github.io/)
 
 <h3 align="left">Connect with me:</h3>
@@ -21,3 +19,6 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/delilahmedina"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/delilahmedina" /></a></p><br><br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lilahmedina&" alt="lilahmedina" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lilahmedina&label=Profile%20views&color=0e75b6&style=flat" alt="lilahmedina" /> </p>
+
