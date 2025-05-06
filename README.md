@@ -12,7 +12,7 @@
 <a href="https://stackoverflow.com/users/27196029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27196029" height="30" width="40" /></a>
 <a href="https://codepen.io/lilahmedina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lilahmedina" height="30" width="40" /></a>
 <a href="https://medium.com/@delilahmedina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@delilahmedina" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@KnottyChic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="knottychic" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@TheKnottyChic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="knottychic" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lilahmedina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lilahmedina" height="30" width="40" />
 </p>
 
