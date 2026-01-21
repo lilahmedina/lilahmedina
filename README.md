@@ -26,14 +26,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilahmedina&label=Profile%20views&color=0e75b6&style=flat" alt="lilahmedina" /> </p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lilahmedina&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lilahmedina&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 
   ## 💗 Support my studies 
