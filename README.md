@@ -2,7 +2,7 @@
 <h1 align="center">👋Hi, I'm Lilah</h1>
 <h3 align="center">Associate Test Engineer by profession, and an aspiring programmer by passion.</h3>
 
-- 👨‍💻 All of my projects are available at Delilahmedina.com)
+- 👨‍💻 All of my projects are available at https://www.delilahmedina.com
 
 
 ## 🌐 Connect with me:
